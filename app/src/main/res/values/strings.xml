@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextCode</string>
+    <string name="message_hint">Enter message</string>
+    <string name="key_hint">Enter secret key</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="result_label">Result</string>
+    <string name="decrypt_error">Could not decrypt — wrong key or invalid input</string>
+</resources>
